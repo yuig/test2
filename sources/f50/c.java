@@ -1,0 +1,62 @@
+package f50;
+
+import java.util.List;
+import kotlin.jvm.internal.Intrinsics;
+
+/* loaded from: classes5.dex */
+public final class c implements pc.a {
+
+    /* renamed from: a, reason: collision with root package name */
+    public static final c f61116a = new c();
+
+    /* renamed from: b, reason: collision with root package name */
+    public static final List f61117b = kotlin.collections.f0.j("dominantColor", "height", "type", "url", "width");
+
+    @Override // pc.a
+    public final void d(tc.g writer, pc.v customScalarAdapters, Object obj) {
+        e50.c value = (e50.c) obj;
+        Intrinsics.checkNotNullParameter(writer, "writer");
+        Intrinsics.checkNotNullParameter(customScalarAdapters, "customScalarAdapters");
+        Intrinsics.checkNotNullParameter(value, "value");
+        writer.M0("dominantColor");
+        pc.k0 k0Var = pc.c.f99524e;
+        k0Var.d(writer, customScalarAdapters, value.f57270a);
+        writer.M0("height");
+        pc.k0 k0Var2 = pc.c.f99526g;
+        k0Var2.d(writer, customScalarAdapters, value.f57271b);
+        writer.M0("type");
+        k0Var.d(writer, customScalarAdapters, value.f57272c);
+        writer.M0("url");
+        k0Var.d(writer, customScalarAdapters, value.f57273d);
+        writer.M0("width");
+        k0Var2.d(writer, customScalarAdapters, value.f57274e);
+    }
+
+    @Override // pc.a
+    public final Object f(tc.f reader, pc.v customScalarAdapters) {
+        Intrinsics.checkNotNullParameter(reader, "reader");
+        Intrinsics.checkNotNullParameter(customScalarAdapters, "customScalarAdapters");
+        String str = null;
+        String str2 = null;
+        String str3 = null;
+        Integer num = null;
+        Integer num2 = null;
+        while (true) {
+            int V1 = reader.V1(f61117b);
+            if (V1 == 0) {
+                str = (String) pc.c.f99524e.f(reader, customScalarAdapters);
+            } else if (V1 == 1) {
+                num = (Integer) pc.c.f99526g.f(reader, customScalarAdapters);
+            } else if (V1 == 2) {
+                str2 = (String) pc.c.f99524e.f(reader, customScalarAdapters);
+            } else if (V1 == 3) {
+                str3 = (String) pc.c.f99524e.f(reader, customScalarAdapters);
+            } else {
+                if (V1 != 4) {
+                    return new e50.c(str, str2, str3, num, num2);
+                }
+                num2 = (Integer) pc.c.f99526g.f(reader, customScalarAdapters);
+            }
+        }
+    }
+}

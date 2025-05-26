@@ -1,0 +1,105 @@
+package y32;
+
+/* loaded from: classes2.dex */
+public final class d {
+    public static f a(int i13) {
+        switch (i13) {
+            case 0:
+                return f.UNKNOWN;
+            case 1:
+                return f.PROFILE;
+            case 2:
+                return f.CREATOR_PROFILE;
+            case 3:
+                return f.PROFILE_LONGPRESS;
+            case 4:
+                return f.EXPLORE;
+            case 5:
+                return f.BOARD;
+            case 6:
+                return f.BOARD_LONGPRESS;
+            case 7:
+                return f.DID_IT_MORE;
+            case 8:
+                return f.CLOSEUP;
+            case 9:
+                return f.CLOSEUP_LONGPRESS;
+            case 10:
+                return f.CLOSEOUP_OVERFLOW;
+            case 11:
+                return f.OVERFLOW;
+            case 12:
+                return f.HOMEFEED_LONGPRESS;
+            case 13:
+                return f.HOMEFEED_HOVER;
+            case 14:
+                return f.RELATED_PINS_HOVER;
+            case 15:
+                return f.RELATED_PINS_LONGPRESS;
+            case 16:
+                return f.PINCH_TO_ZOOM;
+            case 17:
+                return f.VIDEO_FINISHED;
+            case 18:
+                return f.CONVERSATION_LONGPRESS;
+            case 19:
+                return f.PIN_SHARE_ICON_IN_CONVERSATION;
+            case 20:
+                return f.TODAY_ARTICLE_FEED;
+            case 21:
+                return f.FOLLOWING_FEED;
+            case 22:
+                return f.INAPP_BROWSER;
+            case 23:
+                return f.BOARD_MORE_IDEAS;
+            case 24:
+                return f.RELATED_PINS_OVERFLOW;
+            case 25:
+                return f.GIF_TRAY;
+            case 26:
+                return f.SEND_A_PIN;
+            case 27:
+                return f.SHOPPING_FEED;
+            case 28:
+                return f.STORY_PIN_FEED;
+            case 29:
+                return f.MESSAGE_FROM_PINTEREST;
+            case 30:
+                return f.PINTEREST_AUTO_REPLY;
+            case 31:
+                return f.CONTEXTUAL_MENU;
+            case 32:
+                return f.INGREDIENTS_AUTOCOPY;
+            case 33:
+                return f.VIDEO_TAB_FEED;
+            case 34:
+                return f.VIDEO_TAB_VIDEO_FINISHED;
+            case 35:
+                return f.SEARCH_FEED_ONE_TAP;
+            case 36:
+                return f.NAG_INVITER;
+            case 37:
+                return f.BOARD_ORGANIZE;
+            case 38:
+                return f.STORY_PIN_FINISHED;
+            case 39:
+                return f.CREATOR_CLASS_LIVESTREAM;
+            case 40:
+                return f.PEAR_QUIZ_RESULTS_PAGE;
+            case 41:
+                return f.BOARD_SHARE;
+            case 42:
+                return f.PIN_LONGPRESS;
+            case 43:
+                return f.COLLAGE_OVERFLOW;
+            case 44:
+                return f.PEAR_INSIGHTS_PAGE;
+            case 45:
+                return f.COLLAGE_POST_PUBLISH;
+            case 46:
+                return f.SHARE_UPSELL;
+            default:
+                return null;
+        }
+    }
+}

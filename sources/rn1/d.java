@@ -1,0 +1,38 @@
+package rn1;
+
+import kotlin.jvm.functions.Function1;
+import kotlin.jvm.internal.Intrinsics;
+import kotlin.jvm.internal.s;
+
+/* loaded from: classes2.dex */
+public final class d extends s implements Function1 {
+
+    /* renamed from: j, reason: collision with root package name */
+    public static final d f108870j = new d(0);
+
+    /* renamed from: k, reason: collision with root package name */
+    public static final d f108871k = new d(1);
+
+    /* renamed from: i, reason: collision with root package name */
+    public final /* synthetic */ int f108872i;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public /* synthetic */ d(int i13) {
+        super(1);
+        this.f108872i = i13;
+    }
+
+    @Override // kotlin.jvm.functions.Function1
+    public final Object invoke(Object obj) {
+        switch (this.f108872i) {
+            case 0:
+                e checkAndApplyDiff = (e) obj;
+                Intrinsics.checkNotNullParameter(checkAndApplyDiff, "$this$checkAndApplyDiff");
+                return checkAndApplyDiff.j();
+            default:
+                a it = (a) obj;
+                Intrinsics.checkNotNullParameter(it, "it");
+                return a.y(it, null, null, null, null, null, 0, fm1.c.GONE, null, null, null, false, 0, null, null, null, null, null, false, null, null, 2097087);
+        }
+    }
+}

@@ -1,0 +1,51 @@
+package zu1;
+
+/* loaded from: classes4.dex */
+public abstract class c {
+    public static int board_host_view_container = 2131427981;
+    public static int content_pager_vw = 2131428735;
+    public static int empty_state_button = 2131429195;
+    public static int empty_state_container = 2131429197;
+    public static int empty_state_main_image = 2131429200;
+    public static int empty_state_primary_text = 2131429202;
+    public static int empty_state_secondary_text = 2131429203;
+    public static int fragment_news_hub_detail = 2131429534;
+    public static int guideline = 2131429745;
+    public static int header_text = 2131429797;
+    public static int inbox_title = 2131430021;
+    public static int news_back_button = 2131430604;
+    public static int news_hub_content_container = 2131430608;
+    public static int news_hub_content_text = 2131430609;
+    public static int news_hub_ellipsis_menu = 2131430610;
+    public static int news_hub_featured_title = 2131430611;
+    public static int news_hub_feed = 2131430612;
+    public static int news_hub_feed_search_bubble_first = 2131430613;
+    public static int news_hub_feed_search_bubble_second = 2131430614;
+    public static int news_hub_header_animation = 2131430615;
+    public static int news_hub_header_avatar_pair = 2131430616;
+    public static int news_hub_header_icon = 2131430617;
+    public static int news_hub_header_icon_container = 2131430618;
+    public static int news_hub_header_lottie = 2131430619;
+    public static int news_hub_header_pin_icon = 2131430621;
+    public static int news_hub_header_small_overlay_icon = 2131430622;
+    public static int news_hub_header_text = 2131430623;
+    public static int news_hub_impression_container = 2131430624;
+    public static int news_hub_item_card_view = 2131430625;
+    public static int news_hub_item_time = 2131430626;
+    public static int news_hub_recycler_view = 2131430627;
+    public static int news_hub_section_header = 2131430628;
+    public static int news_hub_unread_dot = 2131430630;
+    public static int notification_filter_badge = 2131430658;
+    public static int notification_filter_button = 2131430659;
+    public static int notification_tabs_layout = 2131430662;
+    public static int p_recycler_view = 2131430806;
+    public static int swipe_container = 2131432239;
+    public static int tab_toolbar_barrier = 2131432284;
+    public static int toolbar = 2131432493;
+    public static int unified_inbox_settings_modal_messages_button = 2131432710;
+    public static int unified_inbox_settings_modal_notification_button = 2131432711;
+    public static int unified_inbox_toolbar_configuration_button = 2131432712;
+    public static int unified_inbox_toolbar_new_message_button = 2131432713;
+    public static int unified_inbox_toolbar_new_message_icon = 2131432714;
+    public static int unified_inbox_toolbar_settings_close_button = 2131432715;
+}

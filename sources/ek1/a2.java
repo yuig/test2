@@ -1,0 +1,63 @@
+package ek1;
+
+import kotlin.Unit;
+import kotlin.jvm.functions.Function1;
+import kotlin.jvm.internal.Intrinsics;
+
+/* loaded from: classes2.dex */
+public final class a2 extends kotlin.jvm.internal.s implements Function1 {
+
+    /* renamed from: i, reason: collision with root package name */
+    public final /* synthetic */ int f59211i;
+
+    /* renamed from: j, reason: collision with root package name */
+    public final /* synthetic */ long f59212j;
+
+    /* JADX WARN: 'super' call moved to the top of the method (can break code semantics) */
+    public /* synthetic */ a2(long j13, int i13) {
+        super(1);
+        this.f59211i = i13;
+        this.f59212j = j13;
+    }
+
+    public final r1 b(r1 it) {
+        switch (this.f59211i) {
+            case 0:
+                Intrinsics.checkNotNullParameter(it, "it");
+                return r1.b(it, null, null, 0, null, null, null, false, false, yi1.r.a(it.f59351m, false, null, 0L, this.f59212j, false, false, null, 479), 0, null, null, false, false, null, false, false, null, null, false, false, false, false, null, null, false, false, false, null, null, false, null, false, false, false, -4097, 4194303);
+            default:
+                Intrinsics.checkNotNullParameter(it, "it");
+                return r1.b(it, null, null, 0, null, null, null, false, false, yi1.r.a(it.f59351m, false, null, this.f59212j, 0L, false, false, null, 503), 0, null, null, false, false, null, false, false, null, null, false, false, false, false, null, null, false, false, false, null, null, false, null, false, false, false, -4097, 4194303);
+        }
+    }
+
+    @Override // kotlin.jvm.functions.Function1
+    public final Object invoke(Object obj) {
+        h32.z1 z1Var;
+        int i13 = this.f59211i;
+        long j13 = this.f59212j;
+        switch (i13) {
+            case 0:
+                return b((r1) obj);
+            case 1:
+                r it = (r) obj;
+                Intrinsics.checkNotNullParameter(it, "it");
+                az.b bVar = it.f59329b;
+                h32.z1 source = bVar.f20694b;
+                if (source != null) {
+                    Intrinsics.checkNotNullParameter(source, "source");
+                    z1Var = new h32.z1(source.f67478a, Long.valueOf(j13), source.f67482c, source.f67484d, source.f67486e, source.f67488f, source.f67490g, source.f67492h, source.f67494i, source.f67496j, source.f67498k, source.f67500l, source.f67502m, source.f67503n, source.f67504o, source.f67505p, source.f67506q, source.f67507r, source.f67508s, source.f67509t, source.f67510u, source.f67511v, source.f67512w, source.f67513x, source.f67514y, source.f67515z, source.A, source.B, source.C, source.D, source.E, source.F, source.G, source.H, source.I, source.f67477J, source.K, source.L, source.M, source.N, source.O, source.P, source.Q, source.R, source.S, source.T, source.U, source.V, source.W, source.X, source.Y, source.Z, source.f67479a0, source.f67481b0, source.f67483c0, source.f67485d0, source.f67487e0, source.f67489f0, source.f67491g0, source.f67493h0, source.f67495i0, source.f67497j0, source.f67499k0, source.f67501l0);
+                } else {
+                    z1Var = null;
+                }
+                return r.e(it, null, az.b.e(bVar, null, z1Var, null, 5), null, false, null, 29);
+            case 2:
+                return b((r1) obj);
+            default:
+                nc2.l writeVideoState = (nc2.l) obj;
+                Intrinsics.checkNotNullParameter(writeVideoState, "$this$writeVideoState");
+                writeVideoState.f90410b = j13;
+                return Unit.f80348a;
+        }
+    }
+}

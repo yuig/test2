@@ -1,0 +1,5 @@
+package kl2;
+
+/* loaded from: classes2.dex */
+public interface g extends xk2.g {
+}

@@ -1,0 +1,8 @@
+package sy;
+
+/* loaded from: classes3.dex */
+public final class d implements f {
+
+    /* renamed from: a, reason: collision with root package name */
+    public static final d f115639a = new d();
+}

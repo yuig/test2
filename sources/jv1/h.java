@@ -1,0 +1,50 @@
+package jv1;
+
+/* loaded from: classes4.dex */
+public abstract class h {
+    public static int content_description_clear = 2132084277;
+    public static int create_business_account = 2132084658;
+    public static int done = 2132084852;
+    public static int nux_creator_step_subtitle = 2132086640;
+    public static int nux_creator_step_title = 2132086641;
+    public static int nux_done_button_label = 2132086642;
+    public static int nux_end_header_1 = 2132086643;
+    public static int nux_end_header_2 = 2132086644;
+    public static int nux_end_header_2_line_1 = 2132086645;
+    public static int nux_end_header_2_line_2 = 2132086646;
+    public static int nux_interest_picker_item_talkback_deselect_item = 2132086649;
+    public static int nux_interest_picker_item_talkback_select_item = 2132086650;
+    public static int nux_loader_step_secondary_subtitle_creators = 2132086651;
+    public static int nux_loader_step_secondary_title_home_feed_ideas = 2132086652;
+    public static int nux_use_case_title_aesthetics = 2132086655;
+    public static int nux_use_case_title_baking = 2132086656;
+    public static int nux_use_case_title_cooking = 2132086657;
+    public static int nux_use_case_title_cute_animals = 2132086658;
+    public static int nux_use_case_title_diy_projects = 2132086659;
+    public static int nux_use_case_title_hair_inspiration = 2132086660;
+    public static int nux_use_case_title_home_decor = 2132086661;
+    public static int nux_use_case_title_makeup_looks = 2132086662;
+    public static int nux_use_case_title_nail_trends = 2132086663;
+    public static int nux_use_case_title_outfit_ideas = 2132086664;
+    public static int nux_use_case_title_phone_wallpapers = 2132086665;
+    public static int nux_use_case_title_plants = 2132086666;
+    public static int nux_use_case_title_pop_culture = 2132086667;
+    public static int nux_use_case_title_relaxation = 2132086668;
+    public static int nux_use_case_title_small_spaces = 2132086669;
+    public static int nux_use_case_title_sneakers = 2132086670;
+    public static int nux_use_case_title_tattoos = 2132086671;
+    public static int nux_use_case_title_travel = 2132086672;
+    public static int nux_use_case_title_visual_art = 2132086673;
+    public static int nux_use_case_title_weddings = 2132086674;
+    public static int nux_use_case_title_workouts = 2132086675;
+    public static int pick_your_country = 2132086822;
+    public static int pin_picker_header_after_minimum = 2132086954;
+    public static int search_for_country = 2132087674;
+    public static int specified_gender_contains_special_character = 2132088291;
+    public static int use_case_feed_show_more = 2132088833;
+    public static int use_case_picker_subtitle_after_minimum = 2132088834;
+    public static int use_case_picker_title = 2132088835;
+    public static int whats_your_country = 2132088955;
+    public static int whats_your_gender = 2132088956;
+    public static int where_do_you_live = 2132088959;
+}

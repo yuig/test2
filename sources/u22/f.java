@@ -1,0 +1,78 @@
+package u22;
+
+import kotlin.NoWhenBranchMatchedException;
+import lb.l0;
+import org.jetbrains.annotations.NotNull;
+
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
+/* loaded from: classes4.dex */
+public final class f {
+    private static final /* synthetic */ el2.a $ENTRIES;
+    private static final /* synthetic */ f[] $VALUES;
+
+    @NotNull
+    public static final d Companion;
+    public static final f ARROW = new f("ARROW", 0);
+    public static final f CHEVRON = new f("CHEVRON", 1);
+    public static final f NONE = new f("NONE", 2);
+
+    private static final /* synthetic */ f[] $values() {
+        return new f[]{ARROW, CHEVRON, NONE};
+    }
+
+    static {
+        f[] $values = $values();
+        $VALUES = $values;
+        $ENTRIES = l0.b0($values);
+        Companion = new d();
+    }
+
+    private f(String str, int i13) {
+    }
+
+    public static final f findByValue(int i13) {
+        Companion.getClass();
+        if (i13 == 0) {
+            return ARROW;
+        }
+        if (i13 == 1) {
+            return CHEVRON;
+        }
+        if (i13 != 2) {
+            return null;
+        }
+        return NONE;
+    }
+
+    @NotNull
+    public static el2.a getEntries() {
+        return $ENTRIES;
+    }
+
+    public static f valueOf(String str) {
+        return (f) Enum.valueOf(f.class, str);
+    }
+
+    public static f[] values() {
+        return (f[]) $VALUES.clone();
+    }
+
+    public final int getValue() {
+        return value();
+    }
+
+    public final int value() {
+        int i13 = e.f120133a[ordinal()];
+        if (i13 == 1) {
+            return 0;
+        }
+        if (i13 == 2) {
+            return 1;
+        }
+        if (i13 == 3) {
+            return 2;
+        }
+        throw new NoWhenBranchMatchedException();
+    }
+}

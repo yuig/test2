@@ -1,0 +1,11 @@
+package g72;
+
+import org.jetbrains.annotations.NotNull;
+
+/* loaded from: classes4.dex */
+public final class u {
+    @NotNull
+    public final no2.b serializer() {
+        return t.f64108a;
+    }
+}

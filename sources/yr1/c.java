@@ -1,0 +1,55 @@
+package yr1;
+
+/* loaded from: classes2.dex */
+public abstract class c {
+    public static int accessibility_signup_wall_business_terms = 2132082811;
+    public static int accessibility_signup_wall_privacy_policy = 2132082812;
+    public static int accessibility_signup_wall_terms = 2132082813;
+    public static int accessibility_unauth_landing_delete_your_account = 2132082818;
+    public static int accessibility_unauth_landing_notice_at_collection = 2132082819;
+    public static int accessibility_unauth_landing_personalized_ads = 2132082820;
+    public static int account_conversion_privacy_tos = 2132082838;
+    public static int account_conversion_privacy_tos_florida = 2132082839;
+    public static int account_conversion_privacy_tos_italy = 2132082840;
+    public static int account_recovery_email_sent_confirmation_message = 2132082841;
+    public static int account_recovery_email_without_access = 2132082842;
+    public static int account_recovery_header = 2132082843;
+    public static int account_recovery_help_center = 2132082844;
+    public static int account_recovery_okay = 2132082845;
+    public static int click_to_resend_password_reset_email = 2132083652;
+    public static int didnt_get_password_reset = 2132084812;
+    public static int edit_age_confirmation_positive_button = 2132084877;
+    public static int password_reset_email_sent_confirmation_message = 2132086759;
+    public static int password_reset_header = 2132086760;
+    public static int resent_password_reset_email = 2132087541;
+    public static int signup_wall_privacy_policy = 2132088255;
+    public static int strong_password_hint = 2132088445;
+    public static int strong_password_label_new_password = 2132088446;
+    public static int strong_password_label_password = 2132088447;
+    public static int strong_password_min_requirements = 2132088448;
+    public static int strong_password_suggestion_looking_good = 2132088449;
+    public static int strong_password_suggestion_more_complicated = 2132088450;
+    public static int strong_password_suggestion_okay = 2132088451;
+    public static int strong_password_suggestion_perfection = 2132088452;
+    public static int strong_password_tips = 2132088453;
+    public static int strong_password_tips_common_passwords = 2132088454;
+    public static int strong_password_tips_details = 2132088455;
+    public static int strong_password_tips_recent_dates = 2132088456;
+    public static int strong_password_tips_simple_patterns = 2132088457;
+    public static int strong_password_tips_title = 2132088458;
+    public static int strong_password_tips_what_to_avoid = 2132088459;
+    public static int unauth_landing_business_terms_of_service = 2132088677;
+    public static int unauth_landing_delete_your_account = 2132088678;
+    public static int unauth_landing_notice_at_collection = 2132088679;
+    public static int unauth_landing_personalized_ads = 2132088680;
+    public static int unauth_landing_privacy_tos = 2132088681;
+    public static int unauth_landing_privacy_tos_florida = 2132088682;
+    public static int unauth_landing_privacy_tos_italy = 2132088683;
+    public static int unauth_landing_terms_of_service = 2132088684;
+    public static int url_account_deletion_article = 2132088797;
+    public static int url_account_recovery_contact = 2132088798;
+    public static int url_business_terms_of_service = 2132088802;
+    public static int url_notice_at_collection = 2132088814;
+    public static int url_privacy_policy = 2132088821;
+    public static int url_terms_of_service = 2132088829;
+}

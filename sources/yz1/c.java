@@ -1,0 +1,50 @@
+package yz1;
+
+/* loaded from: classes4.dex */
+public abstract class c {
+    public static int gbk_enter_password_for = 2132085338;
+    public static int gbl_account_taken_password_option_description = 2132085339;
+    public static int gbl_confirm_email = 2132085340;
+    public static int gbl_confirm_email_description = 2132085341;
+    public static int gbl_confirm_email_description_alternative = 2132085342;
+    public static int gbl_confirm_urgent_email_description_alternative = 2132085343;
+    public static int gbl_create_password = 2132085344;
+    public static int gbl_create_password_fb_deprecated_description = 2132085345;
+    public static int gbl_done = 2132085346;
+    public static int gbl_email_updated = 2132085347;
+    public static int gbl_enter_password_for_v2 = 2132085348;
+    public static int gbl_invalid_email = 2132085349;
+    public static int gbl_invalid_update_email = 2132085350;
+    public static int gbl_link_account_to_google = 2132085351;
+    public static int gbl_link_google_fb_deprecated_description = 2132085352;
+    public static int gbl_move_google_link_success = 2132085353;
+    public static int gbl_move_google_login = 2132085354;
+    public static int gbl_move_google_login_description = 2132085355;
+    public static int gbl_move_google_login_description_conflicting_email = 2132085356;
+    public static int gbl_move_google_login_title = 2132085357;
+    public static int gbl_no_create_password = 2132085358;
+    public static int gbl_no_use_current_email = 2132085359;
+    public static int gbl_password = 2132085360;
+    public static int gbl_password_created = 2132085361;
+    public static int gbl_password_not_match = 2132085362;
+    public static int gbl_password_re_enter = 2132085363;
+    public static int gbl_please_create_a_password = 2132085364;
+    public static int gbl_please_create_a_password_description = 2132085365;
+    public static int gbl_please_login_again = 2132085366;
+    public static int gbl_prefer_another_way = 2132085367;
+    public static int gbl_prefer_another_way_create_password = 2132085368;
+    public static int gbl_prefer_another_way_link_google = 2132085369;
+    public static int gbl_prefer_another_way_placeholder = 2132085370;
+    public static int gbl_recover_account_description = 2132085371;
+    public static int gbl_recover_account_fb_deprecated_header = 2132085372;
+    public static int gbl_save = 2132085373;
+    public static int gbl_success_google_connected = 2132085374;
+    public static int gbl_update_email = 2132085375;
+    public static int gbl_update_email_desc = 2132085376;
+    public static int gbl_urgent_confirm_email = 2132085377;
+    public static int gbl_urgent_copy_header = 2132085378;
+    public static int gbl_urgent_copy_password_subheader = 2132085379;
+    public static int gbl_urgent_copy_subheader = 2132085380;
+    public static int invalid_email_upsell_text = 2132086008;
+    public static int your_password_too_short = 2132089028;
+}

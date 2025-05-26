@@ -1,0 +1,11 @@
+package ads_mobile_sdk;
+
+/* loaded from: classes2.dex */
+public enum vw2 {
+    RESULT_UNKNOWN,
+    RESULT_NOOP_TOO_FREQUENT,
+    RESULT_NOOP_LOCAL_PROGRAM_STILL_VALID,
+    RESULT_UPDATED,
+    RESULT_NOOP_NO_NEW_PROGRAM,
+    RESULT_FAILURE_INVALID_RESPONSE
+}

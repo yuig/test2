@@ -1,0 +1,50 @@
+package r82;
+
+/* loaded from: classes4.dex */
+public abstract class b {
+    public static int atg_visualization_banner_height = 2131165365;
+    public static int board_more_ideas_upsell_list_item_view_height = 2131165476;
+    public static int category_browse_icon_size = 2131165584;
+    public static int category_cutout_container_margin_bottom = 2131165585;
+    public static int category_cutout_text_height = 2131165586;
+    public static int category_cutout_text_size = 2131165587;
+    public static int cover_and_preview_carousel_margin_top = 2131167228;
+    public static int product_grid_image_spacing = 2131169055;
+    public static int shopping_avatar_verified_icon_size_medium = 2131169697;
+    public static int shopping_category_bubble_corner_radius = 2131169700;
+    public static int shopping_list_end_margin = 2131169704;
+    public static int stacked_collage_image_height = 2131169811;
+    public static int structured_feed_avatar_border_width = 2131169873;
+    public static int structured_feed_editorial_card_stroke_width = 2131169877;
+    public static int structured_feed_empty_footer_view_height = 2131169878;
+    public static int structured_feed_empty_footer_view_height_closeup = 2131169879;
+    public static int structured_feed_footer_bottom_padding = 2131169880;
+    public static int structured_feed_footer_horizontal_padding = 2131169881;
+    public static int structured_feed_footer_top_padding = 2131169882;
+    public static int structured_feed_header_attribution_icon_size = 2131169883;
+    public static int structured_feed_header_bottom_padding_extra_small = 2131169886;
+    public static int structured_feed_header_bottom_padding_icon_above = 2131169887;
+    public static int structured_feed_header_bottom_padding_large = 2131169888;
+    public static int structured_feed_header_bottom_padding_medium = 2131169889;
+    public static int structured_feed_header_bottom_padding_small = 2131169890;
+    public static int structured_feed_header_check_mark_icon_size = 2131169891;
+    public static int structured_feed_header_right_arrow_size = 2131169895;
+    public static int structured_feed_header_text_default = 2131169898;
+    public static int structured_feed_header_text_large = 2131169899;
+    public static int structured_feed_header_text_medium = 2131169900;
+    public static int structured_feed_header_text_small = 2131169901;
+    public static int structured_feed_header_top_padding_extra_small = 2131169904;
+    public static int structured_feed_header_top_padding_icon_above = 2131169905;
+    public static int structured_feed_header_top_padding_large = 2131169906;
+    public static int structured_feed_header_top_padding_medium = 2131169907;
+    public static int structured_feed_header_top_padding_small = 2131169908;
+    public static int structured_feed_no_size = 2131169911;
+    public static int structured_feed_small_footer_bottom_padding = 2131169912;
+    public static int structured_feed_thumbnail_stack_offset = 2131169916;
+    public static int structured_feed_thumbnail_stack_stroke_width = 2131169917;
+    public static int structured_feed_thumbnail_width_default = 2131169919;
+    public static int structured_feed_thumbnail_width_small = 2131169920;
+    public static int structured_feed_ys_nav_footer_bottom_padding = 2131169925;
+    public static int style_item_view_title_min_width = 2131169927;
+    public static int usecase_module_hero_facepile_avatar_size = 2131170093;
+}

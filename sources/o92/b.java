@@ -1,0 +1,50 @@
+package o92;
+
+/* loaded from: classes4.dex */
+public abstract class b {
+    public static int article_section_single_pin_holder = 2131427711;
+    public static int article_section_single_pin_title = 2131427712;
+    public static int article_section_single_pin_user_rep = 2131427713;
+    public static int custom_cover_module_pin_image = 2131428925;
+    public static int more_ideas_separator = 2131430506;
+    public static int single_pin_module_creator = 2131431973;
+    public static int single_pin_module_creator_avatar = 2131431974;
+    public static int single_pin_module_creator_name = 2131431975;
+    public static int single_pin_module_linear_layout_container = 2131431976;
+    public static int single_pin_module_title = 2131431978;
+    public static int single_video_module_creator = 2131431979;
+    public static int single_video_module_creator_avatar = 2131431980;
+    public static int single_video_module_creator_name = 2131431981;
+    public static int single_video_module_title = 2131431982;
+    public static int single_video_module_video_view = 2131431983;
+    public static int today_tab_story_pin_card_view = 2131432463;
+    public static int today_tab_story_pin_created_by_user_text_view = 2131432464;
+    public static int today_tab_story_pin_feedback_description_view = 2131432465;
+    public static int today_tab_story_pin_feedback_title_view = 2131432466;
+    public static int today_tab_story_pin_feedback_view = 2131432467;
+    public static int today_tab_story_pin_pages_count = 2131432468;
+    public static int today_tab_story_pin_user_avatar = 2131432469;
+    public static int today_tab_video_view = 2131432480;
+    public static int usecase_hero_image = 2131432759;
+    public static int usecase_module_facepile = 2131432760;
+    public static int usecase_module_hero_constraint_layout = 2131432761;
+    public static int usecase_module_hero_image_overlay = 2131432762;
+    public static int usecase_module_hero_see_more_button = 2131432763;
+    public static int usecase_module_hero_subtitle = 2131432764;
+    public static int usecase_module_hero_text_wrapper = 2131432765;
+    public static int usecase_module_hero_title = 2131432766;
+    public static int usecase_module_single_creator_avatar_image = 2131432772;
+    public static int usecase_module_single_creator_follow_btn_container = 2131432773;
+    public static int usecase_module_single_creator_image_1 = 2131432774;
+    public static int usecase_module_single_creator_image_2 = 2131432775;
+    public static int usecase_module_single_creator_image_3 = 2131432776;
+    public static int usecase_module_single_creator_subtitle = 2131432777;
+    public static int usecase_module_single_creator_text_container = 2131432778;
+    public static int usecase_module_single_creator_title = 2131432779;
+    public static int usecase_module_three_pins_collection_subtitle = 2131432780;
+    public static int usecase_module_three_pins_collection_text = 2131432781;
+    public static int usecase_module_three_pins_collection_title = 2131432782;
+    public static int usecase_three_pins_collection_image_1 = 2131432783;
+    public static int usecase_three_pins_collection_image_2 = 2131432784;
+    public static int usecase_three_pins_collection_image_3 = 2131432785;
+}

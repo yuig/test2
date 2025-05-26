@@ -1,0 +1,56 @@
+package jg0;
+
+/* loaded from: classes5.dex */
+public abstract class c {
+    public static int actionButton1 = 2131427440;
+    public static int actionButton2 = 2131427441;
+    public static int actionPromptButtonGroup = 2131427445;
+    public static int actionPromptButtonLinearLayout = 2131427446;
+    public static int actionPromptCheckbox = 2131427447;
+    public static int actionPromptCompleteButton = 2131427448;
+    public static int actionPromptCompleteButtonText = 2131427449;
+    public static int actionPromptDetail = 2131427451;
+    public static int actionPromptDismissButton = 2131427452;
+    public static int actionPromptInputText = 2131427454;
+    public static int actionPromptRectangleContainer = 2131427456;
+    public static int actionPromptText = 2131427458;
+    public static int actionPromptValidations = 2131427459;
+    public static int additional_text = 2131427569;
+    public static int banner = 2131427826;
+    public static int carouselIndexTrackerView = 2131428378;
+    public static int comment_nudge_action_prompt_view = 2131428625;
+    public static int comment_push_notification_nudge_action_prompt_view = 2131428629;
+    public static int education_action_prompt_view = 2131429143;
+    public static int education_prompt_title = 2131429147;
+    public static int education_prompt_title_background = 2131429148;
+    public static int education_prompt_view = 2131429149;
+    public static int education_prompt_wrapper = 2131429150;
+    public static int education_pulsar = 2131429151;
+    public static int education_pulsar_view = 2131429152;
+    public static int education_tooltip_view = 2131429153;
+    public static int info_icon = 2131430028;
+    public static int info_icon_container = 2131430029;
+    public static int info_item1 = 2131430030;
+    public static int info_item2 = 2131430031;
+    public static int info_label = 2131430032;
+    public static int radio = 2131431340;
+    public static int recyclerView = 2131431403;
+    public static int selection_item1 = 2131431779;
+    public static int selection_item2 = 2131431780;
+    public static int subtitle = 2131432202;
+    public static int swipe_education_overlay_background = 2131432240;
+    public static int swipe_left_action_description = 2131432241;
+    public static int swipe_left_action_title = 2131432242;
+    public static int swipe_left_education_graphic = 2131432243;
+    public static int swipe_right_action_description = 2131432244;
+    public static int swipe_right_action_title = 2131432245;
+    public static int swipe_right_education_graphic = 2131432246;
+    public static int swipe_up_action_description = 2131432247;
+    public static int swipe_up_action_title = 2131432248;
+    public static int swipe_up_education_graphic = 2131432249;
+    public static int title = 2131432412;
+    public static int title_image = 2131432431;
+    public static int upsell_stub = 2131432749;
+    public static int upsell_view = 2131432755;
+    public static int user_signals_action_prompt_view = 2131432832;
+}
