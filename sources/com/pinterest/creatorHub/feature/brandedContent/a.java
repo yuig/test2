@@ -1,7 +1,0 @@
-package com.pinterest.creatorHub.feature.brandedContent;
-
-import yk1.u;
-
-/* loaded from: classes.dex */
-public interface a extends u {
-}

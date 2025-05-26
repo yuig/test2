@@ -1,6 +1,0 @@
-package cj2;
-
-/* loaded from: classes4.dex */
-public interface c {
-    String asString();
-}

@@ -1,5 +1,0 @@
-package w21;
-
-/* loaded from: classes2.dex */
-public interface y {
-}
